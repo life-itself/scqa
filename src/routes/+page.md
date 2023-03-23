@@ -1,16 +1,12 @@
 # Welcome to SCQA aka Clear Thinking
 
-This site implements the Minto Pyramid Principle framework for clear thinking and communication. <a href="#more">More about the approach below &raquo;</a>
+This site implements the Minto Pyramid Principle framework for clear thinking and communication.
 
-## The Top Down Approach
+The Minto Pyramid Principle is a communication framework developed by Barbara Minto, a former McKinsey consultant. It helps people structure their ideas and communicate them clearly and effectively.
 
-As Minto explains it:
+It suggests that ideas should be presented in a logical and hierarchical order, with the main idea or conclusion at the top and then supporting it with smaller, related ideas or arguments arranged in descending order of importance. This structure gives rise to the name pyramid.
 
-> It is generally easier to start at the top and work down because you begin by thinking about the things that it is easiest for you to be sure of-your subject and the reader's knowledge of it, which you will remind him of in the introduction.
-> 
-> You don't want simply to sit down and begin writing the opening paragraph of the introduction, however. Instead, you want to use the structure of the introductory flow to pull the right points out of your head, one at a time. To do so, I suggest you follow the procedure shown in Exhibit 4 and described below.
-
-![](/img/pyramid-process-top-down.png)
+The pyramid structure helps to ensure clarity and easy understanding of the message being communicated. The Minto Pyramid Principle has been widely adopted in business communication and consulting.
 
 ### Step by Step
 
@@ -28,12 +24,13 @@ As Minto explains it:
 
 The purpose of the entire exercise is to make sure you know what Question it is you are trying to answer. Once you have the Question, everything else falls into place relatively easily.
 
-<a id="more"></a>
+## Context for the Top Down Approach
 
-## About the Minto Pyramid
+As Minto explains it:
 
-The Minto Pyramid Principle is a communication framework developed by Barbara Minto, a former McKinsey consultant. It helps people structure their ideas and communicate them clearly and effectively.
+> It is generally easier to start at the top and work down because you begin by thinking about the things that it is easiest for you to be sure of-your subject and the reader's knowledge of it, which you will remind him of in the introduction.
+> 
+> You don't want simply to sit down and begin writing the opening paragraph of the introduction, however. Instead, you want to use the structure of the introductory flow to pull the right points out of your head, one at a time. To do so, I suggest you follow the procedure shown in Exhibit 4 and described below.
 
-It suggests that ideas should be presented in a logical and hierarchical order, with the main idea or conclusion at the top and then supporting it with smaller, related ideas or arguments arranged in descending order of importance. This structure gives rise to the name pyramid.
+![](/img/pyramid-process-top-down.png)
 
-The pyramid structure helps to ensure clarity and easy understanding of the message being communicated. The Minto Pyramid Principle has been widely adopted in business communication and consulting.
