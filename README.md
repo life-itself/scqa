@@ -2,10 +2,10 @@
 
 This site presents tools that will help structure and communicate thinking. The core is two complementary techniques:
 
-- [[SCQA]] (Situation, Complication, Question, Answer): a method for generating or summarizing 
-- [[Trees]] (issue and/or answer/hypothesis): for structuring an argument, thesis, essay etc.
+- [[SCQA]] (Situation, Complication, Question, Answer): a method for generating or summarizing a question or thesis 
+- [[Trees]] (issue and/or answer/hypothesis): for logically structuring the components of an argument / thesis / essay / article etc.
 
-**These two seemingly simple techniques are in fact revolutionary.**
+**These two seemingly simple techniques are in fact revolutionary.** Widely used they would dramatically improve the quality of discourse and thought. Even within a team or company they can dramatically improve understanding, alignment and effectiveness. And like many simple things, they can be hard to do well.
 
 ## Get started
 
