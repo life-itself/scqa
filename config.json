@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "title": "Issue Trees and SCQH - ",
+    "links": [
+      {
+        "href": "/scqa",
+        "name": "SCQA"
+      },
+      {
+        "href": "/trees",
+        "name": "Trees"
+      },
+      {
+        "href": "/pyramid",
+        "name": "Pyramid"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub",
+        "href": "https://github.com/life-itself/issuetrees"
+      }
+    ]
+  }
+}
