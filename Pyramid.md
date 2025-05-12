@@ -1,3 +1,7 @@
+---
+image: /img/pyramid-process-top-down.png
+---
+
 # Pyramid Recipe to Writing and Thinking
 
 This simple recipe described in Minto's book provides a very simple yet effective way to rapidly start or structure an idea or piece of (non-fiction) writing.
@@ -5,6 +9,8 @@ This simple recipe described in Minto's book provides a very simple yet effectiv
 It is particularly helpful when starting out and you may not yet be clear what you are trying to say.
 
 ### Step by Step
+
+![](/img/pyramid-process-top-down.png)
 
 1. **Draw a box**: This represents the box at the top of your pyramid. Write down in it the subject you are discussing, if you know it. If not, move on to step two.
 
@@ -27,5 +33,3 @@ As Minto explains it:
 > It is generally easier to start at the top and work down because you begin by thinking about the things that it is easiest for you to be sure of-your subject and the reader's knowledge of it, which you will remind him of in the introduction.
 > 
 > You don't want simply to sit down and begin writing the opening paragraph of the introduction, however. Instead, you want to use the structure of the introductory flow to pull the right points out of your head, one at a time. To do so, I suggest you follow the procedure shown in Exhibit 4 and described below.
-
-![](/img/pyramid-process-top-down.png)
